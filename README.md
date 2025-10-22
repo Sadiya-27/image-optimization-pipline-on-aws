@@ -5,10 +5,6 @@ The system automatically processes and optimizes images using AWS Lambda and S3,
 
 ---
 
-## 🚀 Architecture Overview
-
-![AWS Architecture](./architecture-diagram.png)
-
 ### 🧩 Components and Flow
 
 1. **Client Application (Next.js)**  
