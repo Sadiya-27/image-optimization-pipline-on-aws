@@ -46,6 +46,11 @@ The system automatically processes and optimizes images using AWS Lambda and S3,
 - **Infrastructure:** Serverless (S3 + Lambda)
 
 ---
+## Demo Video
+
+https://github.com/user-attachments/assets/18028dc4-c4bf-45ee-8606-1919b8267fa4
+
+---
 
 ## ⚙️ Getting Started
 
