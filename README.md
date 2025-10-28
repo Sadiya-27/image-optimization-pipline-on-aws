@@ -48,8 +48,8 @@ The system automatically processes and optimizes images using AWS Lambda and S3,
 ---
 ## Demo Video
 
-https://github.com/user-attachments/assets/18028dc4-c4bf-45ee-8606-1919b8267fa4
-
+[https://github.com/user-attachments/assets/18028dc4-c4bf-45ee-8606-1919b8267fa4
+](https://www.youtube.com/watch?v=ai_Q5XNPoD4)
 ---
 
 ## ⚙️ Getting Started
